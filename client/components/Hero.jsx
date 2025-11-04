@@ -7,10 +7,10 @@ export default function Hero() {
     <section className="bg-white py-12 sm:py-16 lg:py-20">
       <div className="max-w-full mx-auto px-6 sm:px-8 lg:px-16 text-center">
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-4">
-          Save your Engineering Bandwidth
+          Technical interview resources
         </h1>
         <p className="text-base sm:text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
-          We handle the Interviews so your tech teams can focus on building Innovation
+          Find all the technical interview resources here
         </p>
 
         <div className="max-w-2xl mx-auto px-6 sm:px-8">
